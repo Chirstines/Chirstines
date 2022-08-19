@@ -4,7 +4,7 @@
 
 
 ### Open Source Projects
-[![MIMPython](https://github-readme-stats.vercel.app/api/pin/?username=Chirstines&repo=MIMPython&theme=midnight-purple)](https://github.com/dangngocquan/MIMPython)
+[![MIMPython](https://github-readme-stats.vercel.app/api/pin/?username=Chirstines&repo=MIMPython&theme=midnight-purple)](https://github.com/Chirstine/MIMPython)
 
 
 ### Github Stats
